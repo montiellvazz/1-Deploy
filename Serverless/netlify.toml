@@ -3,5 +3,5 @@ functions="functions"
 
 [[redirects]]
   from = "/*"
-  to = "/functions/:splat"
+  to = "https://capable-concha-706d58.netlify.app"
   status = 200

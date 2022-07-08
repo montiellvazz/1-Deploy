@@ -1,7 +1,7 @@
 const axios = require("axios");
 const connectDB = require("@Utils")
 const instance = axios.create({
-    baseURL:'https://fakestoreapi.com/products'
+    baseURL:'https://capable-concha-706d58.netlify.app/products'
 })
 async function getDB(){
 try{
